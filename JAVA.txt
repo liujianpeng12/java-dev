@@ -11,6 +11,12 @@
     https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ==&mid=2452967020&idx=1&sn=8026391a5fc1d66ec798ed7dd473a733
   一次生产的JVM优化:
     https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ==&mid=2452965745&idx=1&sn=f5fd2f33feb14c1d512294c304921716
+  从实际案例聊聊Java应用的GC优化:
+    https://tech.meituan.com/2017/12/29/jvm-optimize.html
+  jvm系列:
+    https://www.cnblogs.com/ityouknow/p/5603287.html
+  java命令学习系列:
+    http://www.hollischuang.com/archives/tag/java%e5%91%bd%e4%bb%a4%e5%ad%a6%e4%b9%a0%e7%b3%bb%e5%88%97
 
 01 java基础
   https://www.cnblogs.com/xrq730/category/731394.html
